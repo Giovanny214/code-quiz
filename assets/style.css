@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+}
+
+header {
+    /* border: 2px solid red; */
+    margin: 0px;
+    padding: 4px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    border: 2px solid red;
+    margin: 2px 0px 0px 0px;
+    padding-bottom: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+#startQuiz {
+    background-color: blueviolet;
+    color: khaki;
+    margin-top: 20px;
+}
